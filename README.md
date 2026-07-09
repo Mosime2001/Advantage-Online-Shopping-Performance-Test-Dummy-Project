@@ -1,0 +1,2 @@
+# Advantage-Online-Shopping-Performance-Test-Dummy-Project
+Performed end-to-end performance testing on the Advantage Online Shopping (AOS) demonstration website using LoadRunner Professional (Community Edition). Activities included creating the Test Plan, Test Cases, and Test Scenarios; developing and executing performance test scripts; analysing test results; and producing performance assessment reports. 
